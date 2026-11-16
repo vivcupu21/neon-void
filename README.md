@@ -1,8 +1,8 @@
 # NEON VOID
 
-[![Rank](https://make.fun/badge/best-game-01/vivcupu21/neon-void/rank.svg)](https://make.fun/bounty/best-game-01)
-[![Reward](https://make.fun/badge/best-game-01/vivcupu21/neon-void/reward.svg)](https://make.fun/bounty/best-game-01)
-[![Competition](https://make.fun/badge/best-game-01/svg)](https://make.fun/bounty/best-game-01)
+[![make.fun](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/vivcupu21/neon-void/rank.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/vivcupu21/neon-void/reward.svg)](https://make.fun/bounty/best-game-01)
 
 A neon 2D arcade space shooter — an original entry for the make.fun
 [best-game-01 bounty](https://make.fun/bounty/best-game-01) ($1,000, top 10 share the prize).
